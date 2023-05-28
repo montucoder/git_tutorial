@@ -1,0 +1,31 @@
+Topic-02	How to initialize your project
+
+Step_01:	First of all, locate your project directory by using following command
+		pwd : This command tells about your present location/path
+
+Step_02:	Here, we use list command i.e ls command 
+		For example: $ ls
+			     $ File1 File2 ...
+
+Step_03:	By using change directory command "cd <dirctory_name>"
+		For example: $ cd Desktop/git_tutorial
+
+Step_04:	Now, we are in our project directory
+		Hence, we initialize git using following command
+		git init
+
+Step_05:	Now, we add our files and directory by following
+		git add File1 Directory1 File2 ...
+
+Step_06:	Check status by using command "git status"
+
+Step_07:	Finally, we submit our files and directory to git using command -  git commit -m "Type your message"
+
+
+Sonme more usefull command
+
+restore command : git restore file_name
+		  But this command can be used before "git commit command"
+
+checkout command: This command is very usefull when we accidently delete our file. To retieve deleted file, we use following
+ 		  command: git checkout file_name 	
