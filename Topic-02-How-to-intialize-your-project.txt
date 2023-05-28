@@ -12,14 +12,15 @@ Step_03:	By using change directory command "cd <dirctory_name>"
 
 Step_04:	Now, we are in our project directory
 		Hence, we initialize git using following command
-		git init
+		git init  # This command will be used only once to initialize your project directory
 
 Step_05:	Now, we add our files and directory by following
-		git add File1 Directory1 File2 ...
+		git add File1 Directory1 File2 ... # This command is used when we create a new file or modify a previous file
 
 Step_06:	Check status by using command "git status"
 
 Step_07:	Finally, we submit our files and directory to git using command -  git commit -m "Type your message"
+		git commit command is used when we add a new file or modified file
 
 
 Sonme more usefull command
