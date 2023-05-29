@@ -1,0 +1,16 @@
+Topic-03 How to make a repository and push that on github
+
+Consider the following steps
+
+Step_01:	First of all, log in your github profile and make a new public or private repo with same name of your project directory
+
+Step_02:	Add your github repo link (To copy by clicking on Code and copy https link)
+		by command : git remote add origin https://github.com/username/repo_name.git
+
+Step_03:	Verify your repo link
+		By command:	git remote -v
+
+Step_04:	Finally push your repo on githup
+		By command: git push origin master
+		After excuting this command a authantication window open to verify 
+		After successful excution, your code will be pushed to your github repo
