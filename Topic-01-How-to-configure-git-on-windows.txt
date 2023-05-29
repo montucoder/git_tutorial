@@ -1,8 +1,8 @@
 Topic:- 01 How to Configue git on Windows
 
-Fowllowing steps are consider while confingring git on windows
+Fowllowing steps are consider while confinguring git on windows
 
-Step 01:	Use below command to configr\ure user name
+Step 01:	Use below command to configrure user name
 		git config --global "User_Name"
 		For example  git config --global "Aqdas King"
 Step 02:	Use below command to configure user email
