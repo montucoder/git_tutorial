@@ -14,3 +14,6 @@ Step_04:	Finally push your repo on githup
 		By command: git push origin master
 		After excuting this command a authantication window open to verify 
 		After successful excution, your code will be pushed to your github repo
+
+note:		git log command
+		this command tells the history of git 
